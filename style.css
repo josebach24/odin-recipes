@@ -1,0 +1,24 @@
+body {
+    background: rgb(255, 248, 0);
+    background: radial-gradient(circle, rgba(255, 248, 0, 1) 0%, rgba(255, 0, 26, 1) 100%);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+}
+
+ul li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Oswald', sans-serif;
+    color: black;
+
+
+}
